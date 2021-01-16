@@ -1,0 +1,122 @@
+{
+
+    "PressToOpen": "Mağazaya erişmek için [~ e ~ Boşluk ~ q ~] tuşuna basın", // Menu title
+    "PressGuide": "Döndür <- [A] [D] -> | Kameralar [W] veya [S]",
+    "TitleMenuOutfitsUseBtn": "Kıyafet Giy",
+    "TitleMenuOutfitsDeleteBtn": "Kıyafeti Sil",
+
+    "TitleMenuClothes": "Giyinme odası", // Menu title
+    "SubTitleMenuClothes": "Karakterini giydir", // Menu description
+
+    "NoExistValue": "Mevcut değil", // The option it gives when there is no option
+
+    "NoMoney": "Yeterli paran yok",
+    "SuccessfulBuy": "Suçlandın", // Shows how much money you have paid
+
+    "TitleMenuOutfits": "Kıyafetler",
+    "SubTitleMenuOutfits": "Kaydedilmiş kıyafetlerini tekrar giy",
+
+    "PlaceHolderNewOutfit": "Kıyafeti Kaydetmek istiyorsanız, ona isim verin ve kaydedin",
+    "ButtonNewOutfit": "Kıyafeti Kaydet",
+
+
+    "MaskValue": "Yüz maskesi #",
+    "HatsValue": "Şapka #", // The options of the hats section
+    "GlassesValue": "Gözlük #", // The options of the glasses section
+    "NeckwearValue": "Giysi #", // The options of the neckwear section
+    "TiesValue": "Kravat #", // The options of the ties section
+    "ShirtsValue": "Gömlek #", // The options of the shirts section
+    "SuspendersValue": "Jartiyer #", // The options of the suspenders section
+    "VestsValue": "Yelek #", // The options of the vests section
+    "CoatsValue": "Ceket #", // The options of the coats section
+    "PonchosValue": "Panço #", // The options of the ponchos section
+    "CloaksValue": "Kap #", // The options of the cloaks section
+    "GlovesValue": "Eldivenler #", // The options of the gloves section
+    "RingsValue": "Yüzük #", // The options of the rings section
+    "BraceletsValue": "Bilezik #", // The options of the bracelets section
+    "HolstersValue": "Kılıf #", // The options of the holsters section
+    "BeltsValue": "Kemer #", // The options of the belts section
+    "BucklesValue": "Toka #", // The options of the buckles section
+    "PantsValue": "Pantolon #", // The options of the pants section
+    "SkirtsValue": "Etek #", // The options of the skirts section
+    "ChapsValue": "Chaps #", // The options of the chaps section
+    "BootsValue": "Bot Ayakkabı #", // The options of the boots section
+    "SpursValue": "Mahmuzlar #", // The options of the spurs section
+    "NoHatsValue": "Şapkasız", // The option it gives when you do not wear a hat
+    "NoGlassesValue": "Gözlükler olmadan", // The option it gives when you do not wear glasses
+    "NoNeckwearValue": "Boyunbağı olmadan", // The option it gives when you do not wear neckwear
+    "NoTiesValue": "Kravatsız", // The option it gives when you do not wear a tie
+    "NoShirtsValue": "Gömleksizt", // The option it gives when you do not wear a shirt
+    "NoSuspendersValue": "Jartiyer olmadan", // The option it gives when you do not wear suspenders
+    "NoVestsValue": "Yelek Olmadan", // The option it gives when you do not wear a vest
+    "NoCoatsValue": "Ceket olmadan", // The option it gives when you do not wear a coat
+    "NoPonchosValue": "Panço olmadan", // The option it gives when you do not wear a poncho
+    "NoCloaksValue": "Pelerin olmadan", // The option it gives when you do not wear a cloak
+    "NoGlovesValue": "Eldivensiz", // The option it gives when you do not wear gloves
+    "NoRingsValue": "Yüzük olmadan", // The option it gives when you do not wear a ring
+    "NoBraceletsValue": "Bileziksiz", // The option it gives when you do not wear a bracelet
+    "NoHolstersValue": "Kılıfsız", // The option it gives when you do not wear a holster
+    "NoBeltsValue": "Kemersiz", // The option it gives when you do not wear a belt
+    "NoBucklesValue": "Tokasız", // The option it gives when you do not wear a buckle
+    "NoPantsValue": "Pantolonsuz", // The option it gives when you do not wear pants
+    "NoSkirtsValue": "Etek Olmadan", // The option it gives when you do not wear a skirt
+    "NoChapsValue": "Chaps olmadan", // The option it gives when you do not wear chaps
+    "NoBootsValue": "Çizmeler olmadan", // The option it gives when you do not wear boots
+    "NoSpursValue": "Mahmuzlar olmadan", // The option it gives when you do not wear spurs
+    "NoMaskValue": "Yüz Maskesi Olmadan", // The option it gives when you do not wear a face mask
+
+    "Hats": "Şapka",
+    "Glasses": "Gözlük",
+    "Masks": "Yüz maskeleri",
+    "Neckwear": "Boyunbağı",
+    "Ties": "Kravat",
+    "Shirts": "Gömlekler",
+    "Suspenders": "Jartiyer",
+    "Vests": "Yelekler",
+    "Coats": "Kabanlar",
+    "CoatsClosed": "Kapalı kabanlar",
+    "Ponchos": "Pançolar",
+    "Cloaks": "Pelerinler",
+    "Gloves": "Eldivenler",
+    "RightRings": "Sağ yüzükler",
+    "LeftRings": "Sol yüzükler",
+    "Bracelets": "Bilezikler",
+    "PrimaryHolsters": "Birincil kılıflar",
+    "Belts": "Kemerler",
+    "Buckles": "Tokalar",
+    "SecondaryHolsters": "İkincil kılıflar",
+    "Pants": "Pantolon",
+    "Skirts": "Etek",
+    "Chaps": "Chaps",
+    "Boots": "Bot Ayakkabı",
+    "Spurs": "Mahmuzlar",
+
+    "Finish": "Giydirme karakteri", // Confirms the options of the Menu
+
+    //Descriptions of the clothing Menu sections
+    "HatsDesc": "Şapkayı seçin",
+    "GlassesDesc": "Gözlükleri seçin",
+    "MasksDesc": "Yüz maskesi takmak isteyip istemediğinizi seçin",
+    "NeckwearDesc": "Boyun askısını seçin",
+    "TiesDesc": "Kravat seçin",
+    "ShirtsDesc": "Gömleği seçin",
+    "SuspendersDesc": "Askıları seçin",
+    "VestsDesc": "Yeleği seçin",
+    "CoatsDesc": "Ceket seçin",
+    "PonchosDesc": "Pançoyu seçin",
+    "CloaksDesc": "Pelerini seçin",
+    "GlovesDesc": "Eldivenleri seçin",
+    "RightRingsDesc": "Sağ yüzükleri seçin",
+    "LeftRingsDesc": "Sol yüzükleri seçin",
+    "BraceletsDesc": "Bileziği seçin",
+    "PrimaryHolstersDesc": "Birincil kılıfı seçin",
+    "BeltsDesc": "Kemeri seçin",
+    "BucklesDesc": "Tokayı seçin",
+    "SecondaryHolstersDesc": "İkincil kılıfı seçin",
+    "PantsDesc": "Pantolonu seçin",
+    "SkirtsDesc": "Etek seçint",
+    "ChapsDesc": "Chaps Seçin",
+    "BootsDesc": "Botları seçin",
+    "SpursDesc": "Mahmuzları seçin",
+    "FinishDesc": "Her şeyi doğru seçtiğinizden emin olun."
+}
